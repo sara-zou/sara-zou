@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
-**apistatcommand3r/apistatcommand3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on seminar
-- 🌱 I’m currently learning racket
-- 💬 Ask me about music
-- 😄 Pronouns: she her
+- I am a second year Computer Science student currently studying at Northeastern University.
+- My pronouns are she/her.
+- I am currently working on a personal portfolio website to collect all my projects
+- I am currently self learning COBOL
+- I am interested in software development and UI/UX Design
 
